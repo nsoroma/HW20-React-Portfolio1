@@ -1,8 +1,6 @@
 import React from 'react';
 import Container from "../components/Container";
 import Project from '../components/Portfolio';
-import Project from "../components/Portfolio";
-
 
 function Portfolio() {
 	return (
