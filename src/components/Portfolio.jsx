@@ -1,7 +1,7 @@
 import React from "react";
 import './Product.css';
 
-const PortfolioItm = () => {
+const Project = () => {
     return (
       <div class="row">
          <div class="card">
@@ -16,4 +16,4 @@ const PortfolioItm = () => {
 
      );
 };
-export default PortfolioItm;
+export default Project;

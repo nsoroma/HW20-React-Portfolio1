@@ -1,6 +1,7 @@
 import React from 'react';
 import Container from "../components/Container";
-import PortfolioItm from "../components/Portfolio";
+import Project from '../components/Portfolio';
+import Project from "../components/Portfolio";
 
 
 function Portfolio() {
@@ -9,7 +10,7 @@ function Portfolio() {
 		<section className="content">
 			<div className="col-md-12 midsection">
 			  <h2>Portfolio</h2>
-				<PortfolioItm
+				<Project
 				  name="Work Day Scheduler"
 				  imgPath={require("../assets/images/Work Day Scheduler HW2.png")}
 				  linkDeployed="https://jenjch.github.io/passwordGenerator/"

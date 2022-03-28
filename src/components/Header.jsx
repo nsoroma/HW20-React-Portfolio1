@@ -16,7 +16,7 @@ const Header = () => {
         <img src= { HeadshotProfile } class="img-fluid w-25 float-left" alt="Responsive image"></img>
       <h1 class="display-5 fw-bold text-center">Raquel Watson</h1>
       <div class="col-lg-6 mx-auto">
-        <p class="lead mb-4 fw-bold">Vision-driven change agent with a career-long record of IT Portfolio Management and Product Delivery success for leading organizations.</p>
+        <p class="lead mb-4 fw-bold">Passionate, results-driven technology leader with vast experience leading global, cross-functional teams to plan, build, launch and manage powerful digital innovations. Entrepreneurial and innovative with an exceptional track record as a Global Portfolio Manager, Technical Program Manager, Software Development Manager, and Product Engineer in fast-paced, large-scale corporate environments. Extensive experience developing real-time, customer-facing digital web solutions..</p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
           <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Portfolio</button>
           <button type="button" class="btn btn-outline-secondary btn-lg px-4">Credentials</button>
